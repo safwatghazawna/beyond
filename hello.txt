@@ -1,4 +1,4 @@
 Hello World !
 first change !!!
 second change! (made from the online repo itself) ~new change made to cause merge conflict ... but resolved now !!~
-
+~~This is feature number 1 ~~
