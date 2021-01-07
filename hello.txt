@@ -1,3 +1,4 @@
 Hello World !
 first change !!!
-second change! (made from the online repo itself) ~new change made to cause merge conflict~
+second change! (made from the online repo itself) ~new change made to cause merge conflict ... but resolved now !!~
+
